@@ -6,8 +6,8 @@ This project includes all the cases of study about the integration between Leap 
 > [InovaCidades](http://www.inovacidades.org.br/)
 
 ### Guiding:
-> [Ms. Bárbara Dariano](http://lattes.cnpq.br/8010206181701078/)  
-> [Dr. Marcelo Hashimoto](http://lattes.cnpq.br/5909154335340519/)  
+> [Ms. Bárbara Dariano](http://lattes.cnpq.br/8010206181701078)  
+> [Dr. Marcelo Hashimoto](http://lattes.cnpq.br/5909154335340519)  
 > [Dr. Polise De Marchi](http://lattes.cnpq.br/6817254319412151)
 
 ### Softwares:
