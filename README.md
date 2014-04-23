@@ -1,6 +1,6 @@
-# LeapMotionUnityProject
+# SensoryInteraction
 
-This project includes all the cases of study about the integration between Leap Motion and Unity3D.
+This project is a case of study about the interaction technologies applied to some specific enviroments.
 
 ### Project support:
 > [InovaCidades](http://www.inovacidades.org.br/)
