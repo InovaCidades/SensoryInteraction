@@ -12,7 +12,7 @@ This project is a case of study about the interaction technologies applied to so
 
 ### Softwares:
 > [Unity 3D](https://unity3d.com/pt)  
-[Leap Motion](https://www.leapmotion.com/)  
+[Leap Motion SDK](https://www.leapmotion.com/)  
 
 ### Tutorial links:
 > ##### Unity 3D:
