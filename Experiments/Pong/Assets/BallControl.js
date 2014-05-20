@@ -13,6 +13,6 @@ function Start () {
 
 function OnCollisionEnter2D(colInfo : Collision2D) {
 	if (colInfo.collider.tag == "Player") {
-		Debug.Log("Its working!");
+		rigidbody2D.velocity.y = rigidbody2D.velocity.y/2 + colInfo.collider.rigidbody2D.velocity.y/3;
 	}
 }
