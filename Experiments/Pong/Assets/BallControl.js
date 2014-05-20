@@ -12,7 +12,7 @@ function Start () {
 }
 
 function OnCollisionEnter2D(colInfo : Collision2D) {
-	if (colInfo.collider.tag = "Player") {
+	if (colInfo.collider.tag == "Player") {
 		Debug.Log("Its working!");
 	}
 }
