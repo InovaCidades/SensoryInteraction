@@ -12,7 +12,11 @@ This project is a case of study about the interaction technologies applied to so
 
 ### Softwares:
 > [Unity 3D](https://unity3d.com/pt)  
-[Leap Motion SDK](https://www.leapmotion.com/)  
+[Leap Motion SDK](https://www.leapmotion.com/)
+[Perceptual Computing SDK](https://software.intel.com/en-us/vcsource/tools/perceptual-computing-sdk)
+
+### Hardwares:
+> [Intel Real Sense](http://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html)
 
 ### Tutorial links:
 > ##### Unity 3D:
