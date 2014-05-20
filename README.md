@@ -10,13 +10,14 @@ This project is a case of study about the interaction technologies applied to so
 > [Dr. Marcelo Hashimoto](http://lattes.cnpq.br/5909154335340519)  
 > [Dr. Polise De Marchi](http://lattes.cnpq.br/6817254319412151)
 
-### Softwares:
-> [Unity 3D](https://unity3d.com/pt)  
-[Leap Motion SDK](https://www.leapmotion.com/)  
-[Perceptual Computing SDK](https://software.intel.com/en-us/vcsource/tools/perceptual-computing-sdk)
-
 ### Hardwares:
-> [Intel Real Sense](http://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html)
+> [Intel RealSense™](http://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html)  
+[Leap Motion™](https://www.leapmotion.com/)
+
+### Softwares:
+> [Unity 3D™](https://unity3d.com/pt)  
+[Leap Motion SDK](https://developer.leapmotion.com/)  
+[Perceptual Computing SDK™](https://software.intel.com/en-us/vcsource/tools/perceptual-computing-sdk)
 
 ### Tutorial links:
 > ##### Unity 3D:
