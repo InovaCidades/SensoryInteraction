@@ -16,14 +16,15 @@ This project is a case of study about the interaction technologies applied to so
 
 ### Softwares:
 > [Unity 3D™](https://unity3d.com/pt)  
-[Leap Motion SDK](https://developer.leapmotion.com/)  
+[Leap Motion SDK™](https://developer.leapmotion.com/)  
 [Perceptual Computing SDK™](https://software.intel.com/en-us/vcsource/tools/perceptual-computing-sdk)
 
 ### Tutorial links:
 > ##### Unity 3D:
 [Unity 3D Oficial Tutorials](https://unity3d.com/pt/learn/tutorials/modules/beginner/scripting/)  
 [Brackeys Youtube Tutorials](https://www.youtube.com/user/Brackeys/)
-> ##### Leap Motion:
+> ##### Leap Motion:  
+> ##### RealSense:
 
 
 ### License
