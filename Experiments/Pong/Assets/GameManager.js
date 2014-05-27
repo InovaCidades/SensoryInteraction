@@ -20,4 +20,8 @@ function OnGUI () {
 	GUI.skin = theSkin;
 	GUI.Label (new Rect (Screen.width/2-150-12, 20, 100, 100), "" + playerScore01);
 	GUI.Label (new Rect (Screen.width/2+150-12, 20, 100, 100), "" + playerScore02);
+
+	if (GUI.Button (new Rect (Screen.width/2, 35, 121, 53), "RESET")) {
+	
+	}
 }
