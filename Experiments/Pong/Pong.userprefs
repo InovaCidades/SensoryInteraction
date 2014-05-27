@@ -1,9 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BallControl.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SideWalls.js">
     <Files>
-      <File FileName="Assets\BallControl.js" Line="14" Column="42" />
-      <File FileName="Assets\BallControl.js" Line="40" Column="2" />
+      <File FileName="Assets\SideWalls.js" Line="6" Column="14" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
