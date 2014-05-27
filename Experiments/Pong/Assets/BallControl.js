@@ -14,6 +14,18 @@ function OnCollisionEnter2D(colInfo : Collision2D) {
 	}
 }
 
+function ResetBall () {
+
+	rigidbody2D.velocity.y = 0;
+	rigidbody2D.velocity.x = 0;
+	
+	transform.position.x = 0;
+	transform.position.y = 0;
+	
+	yield WaitForSeconds (0.5);
+	GoBall();
+}
+
 function GoBall() {
 	var randomNumber = Random.Range(0, 2);
 	
