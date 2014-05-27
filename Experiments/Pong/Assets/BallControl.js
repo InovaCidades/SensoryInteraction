@@ -8,6 +8,11 @@ function Start () {
 	GoBall();
 }
 
+function Update () {
+	var xVel : float = rigidbody2D.velocity.x;
+	Debug.Log ("Velocity" + xVel);
+}
+
 function OnCollisionEnter2D(colInfo : Collision2D) {
 	if (colInfo.collider.tag == "Player") {
 		rigidbody2D.velocity.y = rigidbody2D.velocity.y/2 + colInfo.collider.rigidbody2D.velocity.y/3;
