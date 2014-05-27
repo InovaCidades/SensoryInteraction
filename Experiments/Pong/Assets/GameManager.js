@@ -13,3 +13,8 @@ static function Score(wallName : String) {
 	Debug.Log("Player Score 1 is " + playerScore01);
 	Debug.Log("Player Score 2 is " + playerScore02);
 }
+
+function OnGUI () {
+	GUI.Label (new Rect (Screen.width/2-150, 20, 100, 100), "" + playerScore01);
+	GUI.Label (new Rect (Screen.width/2+150, 20, 100, 100), "" + playerScore02);
+}
