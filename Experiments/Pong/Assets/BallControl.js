@@ -19,8 +19,6 @@ function Update () {
 		}
 	}
 	
-	Debug.Log("Velocity Before " + xVel);
-	Debug.Log("Velocity After " + rigidbody2D.velocity.x);
 }
 
 function OnCollisionEnter2D(colInfo : Collision2D) {
