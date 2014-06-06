@@ -31,8 +31,12 @@ public class RealSense : MonoBehaviour {
 			//Get the standard hand position
 			float positionZ = ndata.positionWorld.z;
 
-			rigidbody2D.position = new Vector2 (0f, positionZ * 15);
-			//rigidbody2D.position.x = (new Vector3 (75f, positionZ * 10, 0f));
+			positionZ *= 4;
+
+			Vector2 move = new Vector2(0, positionZ);
+
+			rigidbody2D.MovePosition(rigidbody2D.position + move);
+			//rigidbody2D.position = new Vector2 (0f, positionZ);
 		}
 		
 		pipe.ReleaseFrame();   
