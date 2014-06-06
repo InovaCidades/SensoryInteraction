@@ -31,7 +31,7 @@ public class RealSense : MonoBehaviour {
 			//Get the standard hand position
 			float positionZ = ndata.positionWorld.z;
 
-			positionZ *= 4;
+			positionZ *= 5;
 
 			Vector2 move = new Vector2(0, positionZ);
 
