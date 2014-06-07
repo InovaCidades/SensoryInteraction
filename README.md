@@ -25,6 +25,7 @@ This project is a case of study about the interaction technologies applied to so
 [Brackeys Youtube Tutorials](https://www.youtube.com/user/Brackeys/)
 > ##### Leap Motion:  
 > ##### RealSense:
+[Perceptual Computing SDK + Unity ](https://software.intel.com/pt-br/articles/get-start-on-unity-perceptual-augmented-reality-step-by-step)  
 
 
 ### License
