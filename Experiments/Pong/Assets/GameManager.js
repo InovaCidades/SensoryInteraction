@@ -18,8 +18,6 @@ static function Score(wallName : String) {
 	else {
 		playerScore02 += 1;
 	}
-	Debug.Log("Player Score 1 is " + playerScore01);
-	Debug.Log("Player Score 2 is " + playerScore02);
 }
 
 function OnGUI () {
