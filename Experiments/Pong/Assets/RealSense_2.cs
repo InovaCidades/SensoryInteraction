@@ -4,14 +4,11 @@ using System.Collections;
 public class RealSense_2 : MonoBehaviour {
 	
 	private PXCUPipeline pipe;
-	private PXCUPipeline.Mode   mode=PXCUPipeline.Mode.GESTURE;
+	private PXCUPipeline.Mode   mode = PXCUPipeline.Mode.GESTURE;
 	private PXCMGesture.GeoNode ndata;
-	private PXCMGesture.GeoNode.Label bodyLabel = PXCMGesture.GeoNode.Label.LABEL_BODY_HAND_LEFT; 
-	private PXCMGesture.GeoNode.Label handLabel = PXCMGesture.GeoNode.Label.LABEL_HAND_MIDDLE;
-	
-	
-	float positionZ;
-	
+	private PXCMGesture.GeoNode.Label bodyLabel = PXCMGesture.GeoNode.Label.LABEL_BODY_HAND_RIGHT; 
+	private PXCMGesture.GeoNode.Label handLabel = PXCMGesture.GeoNode.Label.LABEL_BODY_HAND_RIGHT;
+
 	void Start () 
 	{
 		pipe = new PXCUPipeline(); 
