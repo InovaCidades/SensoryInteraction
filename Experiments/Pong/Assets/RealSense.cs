@@ -30,7 +30,6 @@ public class RealSense : MonoBehaviour {
 		{
 			//Get the standard hand position
 			float positionZ = ndata.positionWorld.z;
-			float positionX = ndata.positionWorld.x;
 
 			positionZ *= 5;
 
