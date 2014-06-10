@@ -29,4 +29,4 @@ This project is a case of study about the interaction technologies applied to so
 
 
 ### License
-All the code has been developed by [Gabriel Garcia](https://www.github.com/gabrielgfa) under [MIT License](http://gabrielgfa.mit-license.org/).
+> All the code has been developed by [Gabriel Garcia](https://www.github.com/gabrielgfa) under [MIT License](http://gabrielgfa.mit-license.org/).
