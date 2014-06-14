@@ -1,6 +1,6 @@
 # SensoryInteraction
 
-This project is a case of study about the interaction technologies applied to some specific enviroments.
+This project is a case of study about the augmented reality possible hardwares applied into a enviroment developed in Unity.
 
 ### Project support:
 > [InovaCidades](http://www.inovacidades.org.br/)
