@@ -11,13 +11,13 @@ This project is a case of study about the augmented reality possible hardwares a
 > [Dr. Polise De Marchi](http://lattes.cnpq.br/6817254319412151)
 
 ### Hardwares:
-> [Intel RealSense™](http://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html)  
-[Leap Motion™](https://www.leapmotion.com/)
+> [Intel RealSense](http://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html)  
+[Leap Motion](https://www.leapmotion.com/)
 
 ### Softwares:
-> [Unity 3D™](https://unity3d.com/pt)  
-[Leap Motion SDK™](https://developer.leapmotion.com/)  
-[Perceptual Computing SDK™](https://software.intel.com/en-us/vcsource/tools/perceptual-computing-sdk)
+> [Unity 3D](https://unity3d.com/pt)  
+[Leap Motion SDK](https://developer.leapmotion.com/)  
+[Perceptual Computing SDK](https://software.intel.com/en-us/vcsource/tools/perceptual-computing-sdk)
 
 ### Useful links:
 > ##### Unity 3D:
