@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\RedSquare\Assets\RealSense.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\RedSquare\Assets\GameSetup.js">
     <Files>
-      <File FileName="..\RedSquare\Assets\RealSense.cs" Line="32" Column="43" />
+      <File FileName="..\RedSquare\Assets\GameSetup.js" Line="27" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
