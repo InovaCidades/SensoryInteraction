@@ -24,7 +24,4 @@ function Start () {
 	
 	rightWall.size = new Vector2 (1f, mainCam.ScreenToWorldPoint (new Vector3 (0f, Screen.height * 2f, 0f)).y);
 	rightWall.center = new Vector2 (mainCam.ScreenToWorldPoint (new Vector3(Screen.width, 0f, 0f)).x + 0.5f, 0f);
-	
-	Player01.position.x = mainCam.ScreenToWorldPoint (new Vector3 (75f, 0f, 400f)).x;
-	Player02.position.x = mainCam.ScreenToWorldPoint (new Vector3 (Screen.width - 75f, 0f, 0f)).x;
 }

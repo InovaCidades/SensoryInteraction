@@ -29,7 +29,7 @@ public class RealSense : MonoBehaviour {
 			positionX *= 2;
 			positionY *= 2;
 
-			Vector2 move = new Vector2(-positionX, positionZ);
+			Vector2 move = new Vector2(positionX, -positionZ);
 
 			// Z = /\
 			// X = - > <

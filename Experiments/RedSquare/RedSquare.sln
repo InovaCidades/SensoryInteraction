@@ -5,6 +5,8 @@ Project("{FFF69C77-077A-A01B-8094-005C79434A51}") = "RedSquare", "Assembly-CShar
 EndProject
 Project("{FFF69C77-077A-A01B-8094-005C79434A51}") = "RedSquare", "Assembly-CSharp.csproj", "{FA3246D6-2650-9E3E-BC98-95C472A2178C}"
 EndProject
+Project("{FFF69C77-077A-A01B-8094-005C79434A51}") = "RedSquare", "Assembly-UnityScript.unityproj", "{1C948167-6916-F394-42D5-A878D1F48093}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,11 +21,15 @@ Global
 		{FA3246D6-2650-9E3E-BC98-95C472A2178C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA3246D6-2650-9E3E-BC98-95C472A2178C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA3246D6-2650-9E3E-BC98-95C472A2178C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C948167-6916-F394-42D5-A878D1F48093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C948167-6916-F394-42D5-A878D1F48093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C948167-6916-F394-42D5-A878D1F48093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C948167-6916-F394-42D5-A878D1F48093}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-			GlobalSection(MonoDevelopProperties) = preSolution
+					GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
