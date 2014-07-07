@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\RedSquare\Assets\RealSense.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\RealSense.cs">
     <Files>
-      <File FileName="..\RedSquare\Assets\RealSense.cs" Line="34" Column="26" />
+      <File FileName="Assets\RealSense.cs" Line="34" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
