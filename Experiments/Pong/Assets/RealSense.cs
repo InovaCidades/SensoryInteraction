@@ -25,7 +25,7 @@ public class RealSense : MonoBehaviour {
 
 			positionZ *= 5;
 
-			Vector2 move = new Vector2(0, positionZ);
+			Vector2 move = new Vector2(0, -positionZ);
 			rigidbody2D.MovePosition(rigidbody2D.position + move);
 		}
 		
