@@ -21,13 +21,21 @@ public class RealSense : MonoBehaviour {
 		
 		if (pipe.QueryGeoNode(handLabel, out ndata)) {
 			//Get the standard hand position
-			float positionY = ndata.positionWorld.y;
+			float positionX = ndata.positionWorld.x;
 			float positionZ = ndata.positionWorld.z;
+			float positionY = ndata.positionWorld.y;
 			
-			positionZ *= 5;
-			positionY *= 5;
-			
-			Vector2 move = new Vector2(-positionY, -positionZ);
+			positionZ *= 2;
+			positionX *= 2;
+			positionY *= 2;
+
+			Vector2 move = new Vector2(-positionX, positionZ);
+
+			// Z = /\
+			// X = - > <
+			// Y = 
+			//rigidbody2D.position = move;
+
 			rigidbody2D.MovePosition(rigidbody2D.position + move);
 		}
 		
